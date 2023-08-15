@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import EventList from '../components/EventList';
+import EventList from './EventList';
 import api from '../utils/api';
 
 // Showing what the Home component looks like
